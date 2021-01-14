@@ -7,7 +7,7 @@
         :key="jobs.id"
       >
         <div class="relative">
-          <div class="h-40 bg-cover bg-no-repeat bg-center">
+          <div class="m-3 h-40 bg-cover bg-no-repeat bg-center">
             <img
               class="w-auto h-40"
               :src="jobs.company.logoUrl"
